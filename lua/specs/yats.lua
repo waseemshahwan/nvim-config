@@ -1,0 +1,5 @@
+return {
+  {
+    "HerringtonDarkholme/yats.vim"
+  }
+}
